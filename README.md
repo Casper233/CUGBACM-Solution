@@ -1,6 +1,6 @@
 # CUGBACM-Solution
 
-此处将存放思路/题解
+此处将存放思路/题解 ~~其实感觉跟记日记似得=w=~~
 
 [春季训练#1 03-09](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260309.md)
 
