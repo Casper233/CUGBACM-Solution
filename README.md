@@ -9,3 +9,6 @@
 
 
 [春季训练#2 03-11](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260311.md) 
+
+
+[春季训练#2 03-12](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260312.md) 
