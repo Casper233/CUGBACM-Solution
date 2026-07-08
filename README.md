@@ -24,3 +24,9 @@
 
 
 [小学期训练#2 07-07](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260707.md) 
+
+
+## 参考文献与引用
+
+- [OI Wiki](https://oi-wiki.org/)
+- [洛谷](https://www.luogu.com.cn/)
