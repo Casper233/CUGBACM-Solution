@@ -41,6 +41,9 @@
 [小学期训练#6 07-11](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260711.md) 
 
 
+[小学期训练#7 07-13](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260713.md) 
+
+
 ## 参考文献与引用
 
 - [OI Wiki](https://oi-wiki.org/)
