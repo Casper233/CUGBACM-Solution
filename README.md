@@ -50,6 +50,8 @@
 [小学期训练#9 07-15](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260715.md) 
 
 
+[小学期训练#10 07-16](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260716.md) 
+
 ## 参考文献与引用
 
 - [OI Wiki](https://oi-wiki.org/)
