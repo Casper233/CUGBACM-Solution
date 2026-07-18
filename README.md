@@ -35,6 +35,9 @@
 [小学期训练#4 07-09](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260709.md) 
 
 
+[小学期训练#4 07-09 补充部分1](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260709-dlc1.md) 
+
+
 [小学期训练#5 07-10](https://github.com/Casper233/CUGBACM-Solution/blob/main/20260710.md) 
 
 
